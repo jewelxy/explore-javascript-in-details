@@ -1,0 +1,1 @@
+DOM = Is a process to access HTML by JavaScript.
